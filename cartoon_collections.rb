@@ -4,7 +4,7 @@ end
 
 
 def summon_captain_planet(planeteers)
-  planeteers.ma
+  
 end
 
 def long_planeteer_calls# code an argument here
