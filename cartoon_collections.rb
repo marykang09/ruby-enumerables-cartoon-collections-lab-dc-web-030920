@@ -18,3 +18,4 @@ def find_the_cheese(array)
   array.index(cheese_types).detect
 end
 end
+end
